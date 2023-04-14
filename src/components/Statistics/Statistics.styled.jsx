@@ -16,5 +16,5 @@ export const Text = styled.p`
 
 
 export const Value = styled.span`
-  color: #008000;
+  color: var( --accent-text-color);
 `;
